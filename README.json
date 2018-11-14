@@ -1,0 +1,7 @@
+{
+    "netid":"pg23",
+    "frontend":"http://upset-fifth.surge.sh",
+    "backend":"https://thericebook.herokuapp.com/",
+    "username":"testUser",
+    "password":"key"
+  }

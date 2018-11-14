@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.387" tests="6" failures="0">
+  <testsuite name="Root Suite" timestamp="2018-11-14T04:20:43" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Validate Article functionality" timestamp="2018-11-14T04:20:43" tests="3" file="E:\OneDrive - rice.edu\Study-Rice\COMP531-Web\hw6-2\hw6backend\src\articles.spec.js" failures="0" time="0.20199999999999999">
+    <testcase name="Validate Article functionality  GET /articles " time="0.089" classname=" GET /articles ">
+    </testcase>
+    <testcase name="Validate Article functionality GET /articles/id" time="0.056" classname="GET /articles/id">
+    </testcase>
+    <testcase name="Validate Article functionality POST /article" time="0.057" classname="POST /article">
+    </testcase>
+  </testsuite>
+  <testsuite name="test the Profile function" timestamp="2018-11-14T04:20:43" tests="3" file="E:\OneDrive - rice.edu\Study-Rice\COMP531-Web\hw6-2\hw6backend\src\profile.spec.js" failures="0" time="0.185">
+    <testcase name="test the Profile GET-headlines " time="0.064" classname="GET-headlines ">
+    </testcase>
+    <testcase name="test the Profile PUT-headline" time="0.062" classname="PUT-headlinee">
+    </testcase>
+  </testsuite>
+  <testsuite name="test auth" timestamp="2018-11-14T04:20:43" tests="3" file="E:\OneDrive - rice.edu\Study-Rice\COMP531-Web\hw6-2\hw6backend\src\profile.spec.js" failures="0" time="0.185">
+    <testcase name="test auth POST-login" time="0.064" classname="POST-login">
+    </testcase>
+    <testcase name="test auth POST-register" time="0.062" classname="POST-register">
+    </testcase>
+  </testsuite>
+</testsuites>
